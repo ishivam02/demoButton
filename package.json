@@ -1,0 +1,18 @@
+{
+  "name": "demomodule-v6",
+  "version": "1.0.0",
+  "description": "This is Demo Module Built by Shivam Shukla",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ishivam02/demoButton.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
